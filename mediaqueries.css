@@ -101,8 +101,9 @@
   }
 
   .section__pic-container {
-    width: auto;
-    height: 46vh;
+    width: 180px;
+    height: 180px;
+    margin: 0 auto 1.5rem; 
     justify-content: center;
   }
 
